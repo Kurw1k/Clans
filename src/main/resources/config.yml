@@ -1,0 +1,161 @@
+settings:
+  min-name-length: 3
+  max-name-length: 16
+  max-members: 10
+  creation-cost: 25000
+  allow-clan-pvp-default: false
+
+levels:
+  1:
+    cost-blocks: 0
+    storage-slots: 4
+  2:
+    cost-blocks: 100
+    storage-slots: 5
+  3:
+    cost-blocks: 200
+    storage-slots: 6
+  4:
+    cost-blocks: 300
+    storage-slots: 7
+  5:
+    cost-blocks: 400
+    storage-slots: 8
+  6:
+    cost-blocks: 500
+    storage-slots: 9
+  7:
+    cost-blocks: 650
+    storage-slots: 10
+  8:
+    cost-blocks: 800
+    storage-slots: 11
+  9:
+    cost-blocks: 1000
+    storage-slots: 12
+  10:
+    cost-blocks: 1250
+    storage-slots: 13
+  11:
+    cost-blocks: 1500
+    storage-slots: 14
+  12:
+    cost-blocks: 1800
+    storage-slots: 15
+  13:
+    cost-blocks: 2100
+    storage-slots: 16
+  14:
+    cost-blocks: 2500
+    storage-slots: 17
+  15:
+    cost-blocks: 3000
+    storage-slots: 18
+  16:
+    cost-blocks: 3500
+    storage-slots: 19
+  17:
+    cost-blocks: 4100
+    storage-slots: 20
+  18:
+    cost-blocks: 4700
+    storage-slots: 21
+  19:
+    cost-blocks: 5400
+    storage-slots: 22
+  20:
+    cost-blocks: 6200
+    storage-slots: 23
+  21:
+    cost-blocks: 7000
+    storage-slots: 24
+  22:
+    cost-blocks: 7900
+    storage-slots: 25
+  23:
+    cost-blocks: 8900
+    storage-slots: 26
+  24:
+    cost-blocks: 10000
+    storage-slots: 27
+  25:
+    cost-blocks: 11200
+    storage-slots: 28
+  26:
+    cost-blocks: 12500
+    storage-slots: 29
+  27:
+    cost-blocks: 13900
+    storage-slots: 30
+  28:
+    cost-blocks: 15400
+    storage-slots: 31
+  29:
+    cost-blocks: 17000
+    storage-slots: 32
+  30:
+    cost-blocks: 18700
+    storage-slots: 33
+  31:
+    cost-blocks: 20500
+    storage-slots: 34
+  32:
+    cost-blocks: 22400
+    storage-slots: 35
+  33:
+    cost-blocks: 24400
+    storage-slots: 36
+  34:
+    cost-blocks: 26500
+    storage-slots: 37
+  35:
+    cost-blocks: 28700
+    storage-slots: 38
+  36:
+    cost-blocks: 31000
+    storage-slots: 39
+  37:
+    cost-blocks: 33400
+    storage-slots: 40
+  38:
+    cost-blocks: 35900
+    storage-slots: 41
+  39:
+    cost-blocks: 38500
+    storage-slots: 42
+  40:
+    cost-blocks: 41200
+    storage-slots: 43
+  41:
+    cost-blocks: 44000
+    storage-slots: 44
+  42:
+    cost-blocks: 46900
+    storage-slots: 45
+  43:
+    cost-blocks: 49900
+    storage-slots: 46
+  44:
+    cost-blocks: 53000
+    storage-slots: 47
+  45:
+    cost-blocks: 56200
+    storage-slots: 48
+  46:
+    cost-blocks: 59500
+    storage-slots: 49
+  47:
+    cost-blocks: 62900
+    storage-slots: 50
+  48:
+    cost-blocks: 66400
+    storage-slots: 51
+  49:
+    cost-blocks: 70000
+    storage-slots: 52
+  50:
+    cost-blocks: 75000
+    storage-slots: 53
+  51:
+    cost-blocks: 80000
+    storage-slots: 54

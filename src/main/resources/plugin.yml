@@ -1,0 +1,10 @@
+name: Clans
+version: 1.0
+main: org.kurw1k.clans.Clans
+api-version: '1.21'
+depend: [PlaceholderAPI]
+softdepend: [DeluxeMenus]
+commands:
+  clan:
+    description: Главная команда кланов
+    aliases: [clans]

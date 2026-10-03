@@ -1,0 +1,29 @@
+# --- IDE (IntelliJ IDEA, Eclipse, VS Code) ---
+.idea/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
+.vscode/
+build/
+.gradle/
+
+# --- Сборочные директории Maven и Gradle ---
+target/
+**/build/
+!src/main/build/
+
+# --- Системные файлы и кэш ---
+.DS_Store
+Thumbs.db
+*.log
+logs/
+
+# --- Файлы конфигурации окружения и локальные данные плагина ---
+# Если нужно исключить локальную базу данных, конфиги с паролями или тестовый сервер:
+/run/
+/out/
+data.yml
+*.db
